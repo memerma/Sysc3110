@@ -14,6 +14,9 @@ public class AddressBook {
         infoList.remove(name);
     }
 
+    public void fakeFunc(){
+
+    }
     public static void main(String[] args){
         BuddyInfo person1 = new BuddyInfo("steve");
         AddressBook addressBook = new AddressBook();
@@ -24,5 +27,6 @@ public class AddressBook {
 
 
     }
+
 
 }
