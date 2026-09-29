@@ -12,13 +12,6 @@ public class AddressBook {
     }
     public void removeBuddy(BuddyInfo name){
         infoList.remove(name);
-
-
-
-
-
-
-
     }
 
     public static void main(){
