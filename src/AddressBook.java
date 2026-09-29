@@ -16,6 +16,7 @@ public class AddressBook {
 
     public void fakeFunc(){
 
+//new thing
     }
     public static void main(String[] args){
         BuddyInfo person1 = new BuddyInfo("steve");
