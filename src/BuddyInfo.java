@@ -2,7 +2,7 @@ public class BuddyInfo {
 
     private String name;
 
-    public static void main() {
+    static void main() {
         // new thing
         BuddyInfo obj1 = new BuddyInfo("Liam2");
 
@@ -11,6 +11,7 @@ public class BuddyInfo {
     public BuddyInfo(String name) {
         this.name = name;
     }
+
     public BuddyInfo() {
         this.name = "Liam";
     }
